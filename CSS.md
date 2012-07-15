@@ -20,10 +20,10 @@ h3 { color: red; }
 
 ### Line breaks
 * Each selector on their own line
-* Opening brace on the same line as the (last) selector
+* Opening brace `{` on the same line as the (last) selector
 * One property/value pair per line
-* Closing brace on its own line
-* Next block after one empty line
+* Closing brace `}` on its own line
+* One empty line before the next block of styles
 * **Blocks consisting of only one property/value pair are allowed to be one-liners*
 
 ### Formatting strings
@@ -33,7 +33,7 @@ h3 { color: red; }
 ### Saving the world's forests
 * Zero is zero; saying `0px`, `0em` or zero with any unit makes no sense – only `0`, please
 * Use shorthand where possible (if you don't know the shorthand for a given property, it's not life or death)
-* Use shortened HEX codes where possible; #FFFFFF -> #FFF and #AABBCC -> #ABC
+* Use shortened HEX codes where possible; `#FFFFFF` › `#FFF` and `#AABBCC` › `#ABC`
 
 ### Naming
 * Give names (classes, IDs, data-attributes...) based on function, not a given look
