@@ -30,7 +30,8 @@ h3 { color: red; }
 * Fonts with spaces in their names should be enclosed in double quotes; "
 * References to files should not be enclosed in any quotes
 
-### Saving the forest
+### Saving the world's forests
+* Zero is zero; saying `0px`, `0em` or zero with any unit makes no sense – only `0`, please
 * Use shorthand where possible (if you don't know the shorthand for a given property, it's not life or death)
 * Use shortened HEX codes where possible; #FFFFFF -> #FFF and #AABBCC -> #ABC
 
