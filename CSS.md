@@ -31,7 +31,7 @@ h3 { color: red; }
 * References to files should not be enclosed in any quotes
 
 ### Saving the world's forests
-* Zero is zero; saying `0px`, `0em` or zero with any unit makes no sense – only `0`, please
+* Zero is zero; specifying any unit for zero makes no sense – just `0`, please
 * Use shorthand where possible (if you don't know the shorthand for a given property, it's not life or death)
 * Use shortened HEX codes where possible; `#FFFFFF` › `#FFF` and `#AABBCC` › `#ABC`
 
