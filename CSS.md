@@ -15,7 +15,7 @@ h2 {
     background: #000;
 }
 
-h3 { color: red; }
+.user-quote { font-style: italic; }
 ```
 
 ### Line breaks
