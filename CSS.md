@@ -24,7 +24,7 @@ h3 { color: red; }
 * One property/value pair per line
 * Closing brace on its own line
 * Next block after one empty line
-* **Blocks consisting of only one property/value pair are allowed be one-liners*
+* **Blocks consisting of only one property/value pair are allowed to be one-liners*
 
 ### Formatting strings
 * Fonts with spaces in their names should be enclosed in double quotes; "
